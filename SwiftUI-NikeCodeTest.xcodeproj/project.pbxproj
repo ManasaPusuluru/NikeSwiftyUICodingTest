@@ -9,12 +9,26 @@
 /* Begin PBXBuildFile section */
 		F553F4F724D7C428009FB74B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F553F4F624D7C428009FB74B /* AppDelegate.swift */; };
 		F553F4F924D7C428009FB74B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F553F4F824D7C428009FB74B /* SceneDelegate.swift */; };
-		F553F4FB24D7C428009FB74B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F553F4FA24D7C428009FB74B /* ViewController.swift */; };
 		F553F4FE24D7C428009FB74B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F553F4FC24D7C428009FB74B /* Main.storyboard */; };
 		F553F50024D7C42C009FB74B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F553F4FF24D7C42C009FB74B /* Assets.xcassets */; };
 		F553F50324D7C42C009FB74B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F553F50124D7C42C009FB74B /* LaunchScreen.storyboard */; };
 		F553F50E24D7C42C009FB74B /* SwiftUI_NikeCodeTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F553F50D24D7C42C009FB74B /* SwiftUI_NikeCodeTestTests.swift */; };
 		F553F51924D7C42C009FB74B /* SwiftUI_NikeCodeTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F553F51824D7C42C009FB74B /* SwiftUI_NikeCodeTestUITests.swift */; };
+		F5CC47B224D7C88200949A99 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CC47B024D7C88200949A99 /* ContentView.swift */; };
+		F5CC47B324D7C88200949A99 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CC47B024D7C88200949A99 /* ContentView.swift */; };
+		F5CC47B424D7C88200949A99 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CC47B024D7C88200949A99 /* ContentView.swift */; };
+		F5CC47B524D7C88200949A99 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CC47B124D7C88200949A99 /* DetailView.swift */; };
+		F5CC47B624D7C88200949A99 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CC47B124D7C88200949A99 /* DetailView.swift */; };
+		F5CC47B724D7C88200949A99 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CC47B124D7C88200949A99 /* DetailView.swift */; };
+		F5CC47BA24D7CBDE00949A99 /* AnatarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CC47B824D7CBDE00949A99 /* AnatarView.swift */; };
+		F5CC47BB24D7CBDE00949A99 /* AnatarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CC47B824D7CBDE00949A99 /* AnatarView.swift */; };
+		F5CC47BC24D7CBDE00949A99 /* AnatarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CC47B824D7CBDE00949A99 /* AnatarView.swift */; };
+		F5CC47BD24D7CBDE00949A99 /* AlbumView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CC47B924D7CBDE00949A99 /* AlbumView.swift */; };
+		F5CC47BE24D7CBDE00949A99 /* AlbumView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CC47B924D7CBDE00949A99 /* AlbumView.swift */; };
+		F5CC47BF24D7CBDE00949A99 /* AlbumView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CC47B924D7CBDE00949A99 /* AlbumView.swift */; };
+		F5CC47C124D7CBE800949A99 /* FetchDataList.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CC47C024D7CBE800949A99 /* FetchDataList.swift */; };
+		F5CC47C224D7CBE800949A99 /* FetchDataList.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CC47C024D7CBE800949A99 /* FetchDataList.swift */; };
+		F5CC47C324D7CBE800949A99 /* FetchDataList.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CC47C024D7CBE800949A99 /* FetchDataList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,7 +52,6 @@
 		F553F4F324D7C428009FB74B /* SwiftUI-NikeCodeTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-NikeCodeTest.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F553F4F624D7C428009FB74B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F553F4F824D7C428009FB74B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		F553F4FA24D7C428009FB74B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		F553F4FD24D7C428009FB74B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		F553F4FF24D7C42C009FB74B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F553F50224D7C42C009FB74B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -49,6 +62,11 @@
 		F553F51424D7C42C009FB74B /* SwiftUI-NikeCodeTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SwiftUI-NikeCodeTestUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F553F51824D7C42C009FB74B /* SwiftUI_NikeCodeTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_NikeCodeTestUITests.swift; sourceTree = "<group>"; };
 		F553F51A24D7C42C009FB74B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F5CC47B024D7C88200949A99 /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		F5CC47B124D7C88200949A99 /* DetailView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		F5CC47B824D7CBDE00949A99 /* AnatarView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnatarView.swift; sourceTree = "<group>"; };
+		F5CC47B924D7CBDE00949A99 /* AlbumView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlbumView.swift; sourceTree = "<group>"; };
+		F5CC47C024D7CBE800949A99 /* FetchDataList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FetchDataList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,8 +119,12 @@
 			children = (
 				F553F4F624D7C428009FB74B /* AppDelegate.swift */,
 				F553F4F824D7C428009FB74B /* SceneDelegate.swift */,
-				F553F4FA24D7C428009FB74B /* ViewController.swift */,
+				F5CC47C024D7CBE800949A99 /* FetchDataList.swift */,
+				F5CC47B924D7CBDE00949A99 /* AlbumView.swift */,
+				F5CC47B124D7C88200949A99 /* DetailView.swift */,
+				F5CC47B824D7CBDE00949A99 /* AnatarView.swift */,
 				F553F4FC24D7C428009FB74B /* Main.storyboard */,
+				F5CC47B024D7C88200949A99 /* ContentView.swift */,
 				F553F4FF24D7C42C009FB74B /* Assets.xcassets */,
 				F553F50124D7C42C009FB74B /* LaunchScreen.storyboard */,
 				F553F50424D7C42C009FB74B /* Info.plist */,
@@ -259,9 +281,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F553F4FB24D7C428009FB74B /* ViewController.swift in Sources */,
+				F5CC47C124D7CBE800949A99 /* FetchDataList.swift in Sources */,
+				F5CC47BD24D7CBDE00949A99 /* AlbumView.swift in Sources */,
 				F553F4F724D7C428009FB74B /* AppDelegate.swift in Sources */,
+				F5CC47BA24D7CBDE00949A99 /* AnatarView.swift in Sources */,
+				F5CC47B524D7C88200949A99 /* DetailView.swift in Sources */,
 				F553F4F924D7C428009FB74B /* SceneDelegate.swift in Sources */,
+				F5CC47B224D7C88200949A99 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,6 +295,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F5CC47C224D7CBE800949A99 /* FetchDataList.swift in Sources */,
+				F5CC47B324D7C88200949A99 /* ContentView.swift in Sources */,
+				F5CC47BB24D7CBDE00949A99 /* AnatarView.swift in Sources */,
+				F5CC47B624D7C88200949A99 /* DetailView.swift in Sources */,
+				F5CC47BE24D7CBDE00949A99 /* AlbumView.swift in Sources */,
 				F553F50E24D7C42C009FB74B /* SwiftUI_NikeCodeTestTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -277,6 +308,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F5CC47C324D7CBE800949A99 /* FetchDataList.swift in Sources */,
+				F5CC47B424D7C88200949A99 /* ContentView.swift in Sources */,
+				F5CC47BC24D7CBDE00949A99 /* AnatarView.swift in Sources */,
+				F5CC47B724D7C88200949A99 /* DetailView.swift in Sources */,
+				F5CC47BF24D7CBDE00949A99 /* AlbumView.swift in Sources */,
 				F553F51924D7C42C009FB74B /* SwiftUI_NikeCodeTestUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -443,7 +479,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.manasa.SwiftUI-NikeCodeTest";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -460,7 +496,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.manasa.SwiftUI-NikeCodeTest";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
